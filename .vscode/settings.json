@@ -1,0 +1,8 @@
+{
+  "rust-analyzer.linkedProjects": [
+    
+  ],
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "workbench.colorTheme": "Default Light Modern"
+}
